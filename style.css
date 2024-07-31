@@ -1,0 +1,10 @@
+.Calculater{
+    height: 400px;
+    width: 350px;
+    background-color:black;
+    margin: 30px auto;
+    border-radius: 50px;
+    padding:40px 25px 10px 25px;
+    border-radius: none;
+    
+}
